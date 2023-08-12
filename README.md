@@ -27,4 +27,11 @@ Product Stock
 - concept of the product stock(have to be on the final system ...obrigatory...)
 - contains a table (has to be connected to the database)
 
+- v0.3 (12/08)
+
+Product Stock
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/60664b39-7fa7-4750-a5b4-225b8211a70a)
+- table working (without db)
+
+
 
