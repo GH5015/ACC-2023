@@ -18,6 +18,7 @@ public class LoginForm extends javax.swing.JFrame {
     
     public LoginForm() {
         initComponents();
+        setLocationRelativeTo(null);
     }
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents

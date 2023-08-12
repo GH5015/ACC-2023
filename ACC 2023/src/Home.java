@@ -303,9 +303,9 @@ public class Home extends javax.swing.JFrame {
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
 
         dispose();
-	Estoque estoque = new Estoque();
-	estoque.setLocationRelativeTo(estoque);
-	estoque.setVisible(true);
+	Estoque1 estoque1 = new Estoque1();
+	estoque1.setLocationRelativeTo(estoque1);
+	estoque1.setVisible(true);
     }//GEN-LAST:event_jButton4ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
