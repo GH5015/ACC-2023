@@ -33,5 +33,17 @@ Product Stock
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/60664b39-7fa7-4750-a5b4-225b8211a70a)
 - table working (without db)
 
+- v0.4 (22/08)
+
+Product Stock
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/20cb3bff-acb6-4e02-b78e-3a3caab63aaf)
+- ID and supplier columns were inserted
+
+Home Screen
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/232114b4-852a-4cd6-8f37-71c2f0c79627)
+- clients panel was changed by most active supplier panel
+- events panel was changed by the day's tasks
+
+
 
 
