@@ -41,7 +41,7 @@ Product Stock
 
 Home Screen
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/232114b4-852a-4cd6-8f37-71c2f0c79627)
-- clients panel was changed by most active supplier panel
+- clients panel was changed by most active suppliers's panel
 - events panel was changed by the day's tasks
 
 
