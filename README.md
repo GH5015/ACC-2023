@@ -45,9 +45,12 @@ Home Screen
 - events panel was changed by the day's tasks
 
 - v0.5 (05/09)
-- suppliers panel was created with a table working
+
+Suppliers
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/ad825fb8-520f-4dd4-8f15-ca2b0368c7d4)
+- suppliers panel was created with a table
 - sign up button was created
-- buttons changes 
+- button's design changed
   
 
 
