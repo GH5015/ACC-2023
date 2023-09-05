@@ -51,7 +51,7 @@ Suppliers
 - suppliers panel was created with a table
 - sign up button was created
 - button's design changed
-  
+- bugs resolved
 
 
 
