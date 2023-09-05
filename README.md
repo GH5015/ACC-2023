@@ -44,6 +44,12 @@ Home Screen
 - clients panel was changed by most active suppliers's panel
 - events panel was changed by the day's tasks
 
+- v0.5 (05/09)
+- suppliers panel was created with a table working
+- sign up button was created
+- buttons changes 
+  
+
 
 
 
