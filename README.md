@@ -72,8 +72,8 @@ Suppliers
 - Finances
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/bfb4a899-4ecc-4aca-acf6-aac94a06744e)
 
-- monthly's total balance added
-- monthly's incomes and outcomes
+- annual's total balance added
+- annual''s incomes and outcomes
 
 
 
