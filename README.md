@@ -75,22 +75,35 @@ Suppliers
 - db connected to tables
 - finance screen was created
 
-- Home Screen
+Home Screen
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/76a0a67a-91fc-41f2-8054-35abc8136886)
 
 - date added
 
-- Product Stock
+Product Stock
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/8e855483-f6e4-4afa-a297-130facd2355c)
 
-- Suplliers
+Suplliers
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/d2a845cb-592b-4e2b-9d89-d9a53da1ee57)
 
-- Finances
+Finances
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/bfb4a899-4ecc-4aca-acf6-aac94a06744e)
 
 - annual's total balance added
 - annual''s incomes and outcomes
+
+# v0.6 (...)
+- interface redesigned
+- frame border removed
+- icons added
+
+Login
+- hover' button added
+
+Register
+
+
+
 
 
 
