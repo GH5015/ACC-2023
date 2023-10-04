@@ -18,12 +18,12 @@ O projeto "Dom Café" foi desenvolvido para automatizar e otimizar a gestão de 
 - Banco de Dados: MySQL - para armazenamento seguro e eficiente de todas as informações.
 - Interface Gráfica: Swing - proporcionando uma experiência de usuário interativa e fácil de usar.
 
-- v0.1 (last changes: 13/05)
+# v0.1 (last changes: 13/05)
 
 Login Screen (still in development)
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/2e3345c7-d0d2-4539-b6eb-74351332ecad)
 
-- v0.2 (08/08)
+# v0.2 (08/08)
 
 Login Screen 
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/b83c1097-7bdd-4c03-aed2-e28039ab0ef0)
@@ -44,13 +44,13 @@ Product Stock
 - concept of the product stock(have to be on the final system ...obrigatory...)
 - contains a table (has to be connected to the database)
 
-- v0.3 (12/08)
+# v0.3 (12/08)
 
 Product Stock
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/60664b39-7fa7-4750-a5b4-225b8211a70a)
 - table working (without db)
 
-- v0.4 (22/08)
+# v0.4 (22/08)
 
 Product Stock
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/20cb3bff-acb6-4e02-b78e-3a3caab63aaf)
@@ -61,7 +61,7 @@ Home Screen
 - clients panel was changed by most active suppliers's panel
 - events panel was changed by the day's tasks
 
-- v0.5 (05/09)
+# v0.5 (05/09)
 
 Suppliers
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/ad825fb8-520f-4dd4-8f15-ca2b0368c7d4)
@@ -70,7 +70,7 @@ Suppliers
 - button's design changed
 - bugs resolved
 
-- v0.6 (21/09)
+# v0.6 (21/09)
 
 - db connected to tables
 - finance screen was created
