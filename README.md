@@ -87,19 +87,41 @@ Suplliers
 
 Finances
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/bfb4a899-4ecc-4aca-acf6-aac94a06744e)
-
 - annual's total balance added
 - annual''s incomes and outcomes
 
-# v1.0 (...)
+# v1.0 (24/06)
 - interface redesigned
 - frame border removed
 - icons added
+- exit button added
 
-Login
+Login Screen
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/1192419f-6d54-4daf-b0f6-fd639a8709c0)
 - hover' button added
 
-Register
+Register Screen
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/6cc97dc4-528c-4986-89d5-c002f5b3dfcb)
+- first name field added
+
+Home 
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/17f8bb07-35fc-4c87-b42e-4385554ac858)
+- logo changed
+- welcome message added
+
+Stock
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/83bf4f55-c105-4cdf-bc0c-95a13b91b7de)
+
+Suppliers
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/7965e028-5d32-488c-8c10-a00433d26725)
+
+Finances
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/8382a121-41d3-454e-9bba-ad6a1e900040)
+
+# v1.1 (27/09)
+
+
+
 
 
 
