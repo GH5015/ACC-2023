@@ -110,15 +110,54 @@ Home
 - welcome message added
 
 Stock
-![image](https://github.com/GH5015/ACC-2023/assets/94612707/83bf4f55-c105-4cdf-bc0c-95a13b91b7de)
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/7fb1e788-4529-4cbe-91a7-ccf48d5f174d)
 
 Suppliers
-![image](https://github.com/GH5015/ACC-2023/assets/94612707/7965e028-5d32-488c-8c10-a00433d26725)
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/6d4f06a0-6967-48f5-8d5e-a069a03b9717)
 
 Finances
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/8382a121-41d3-454e-9bba-ad6a1e900040)
 
 # v1.1 (27/09)
+
+- services and users screen added
+- link to Dom Café's landing page clicking on logo
+- old logo removed
+- user type added (admin or user) with diferent privileges
+- user image added (refers to user type)
+- user can change type clicking on user image
+- username appears on screen when logged in
+- tables can be ordered by column now
+- search panel added
+- background images changed
+
+Home
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/130f45a1-b495-49d5-8c41-af29d97ce759)
+- last changes panel added
+
+Stock
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/37feef57-4ce0-4f0e-9a5c-19d5650ce347)
+- products are registered on finances automatically
+
+Suppliers
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/262d5892-0268-4528-b315-34b03b421298)
+- email field added
+
+Services
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/2b70f970-37d9-4e40-b125-54b7e35e5fb7)
+- services are registered on finances automatically
+
+Finances 
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/c856431f-971b-4769-b88f-8afc22dd5350)
+- remove button added
+- last month's financial graphic created
+
+Users
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/5fe24dac-9f23-4cf9-88b7-e6e2863816f4)
+
+
+
+
 
 
 
