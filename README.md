@@ -1,22 +1,21 @@
 # DOM CAFÉ
 Java academic coffe store management program
 
-# Visão Geral:
+# Overview:
 
-O projeto "Dom Café" foi desenvolvido para automatizar e otimizar a gestão de uma cafeteria moderna. Através de uma interface gráfica intuitiva e amigável, oferece uma solução completa para o gerenciamento de produtos, fornecedores, finanças e serviços, possibilitando assim uma melhor tomada de decisões e maior controle operacional para os gestores.
+The "Dom Café" project was developed to automate and optimize the management of a modern café. Through an intuitive and friendly graphical interface, it offers a complete solution for managing products, suppliers, finances and services, thus enabling better decision-making and greater operational control for managers.
 
-# Funcionalidades Principais:
+# Main Functions:
 
-- Gestão de Estoque: Rastreamento em tempo real de todos os produtos disponíveis, com recursos para adicionar, editar e remover itens.
-- Controle Financeiro: Visão clara da saúde financeira da empresa, permitindo a inserção de receitas e despesas, bem como a visualização de balanços.
-- Cadastro de Fornecedores: Mantenha todas as informações de seus fornecedores em um só lugar, facilitando o processo de compras e renovação de estoque.
-- Serviços e Atendimentos: Gerencie todos os serviços oferecidos, desde a venda de um simples café até combos e promoções especiais.
+- Inventory Management: Real-time tracking of all available products, with features to add, edit and remove items.
+- Financial Control: Clear view of the company's financial health, allowing the insertion of income and expenses, as well as the visualization of balance sheets.
+- Supplier Registration: Keep all your supplier information in one place, facilitating the purchasing and stock renewal process.
+- Services and Support: Manage all services offered, from the sale of a simple coffee to combos and special promotions.
 
-# Tecnologias Utilizadas:
+# Technologies Used:
 
-- Linguagem: Java - por sua robustez e portabilidade, permitindo que o sistema seja utilizado em diferentes plataformas.
-- Banco de Dados: MySQL - para armazenamento seguro e eficiente de todas as informações.
-- Interface Gráfica: Swing - proporcionando uma experiência de usuário interativa e fácil de usar.
+- Programming Language: Java.
+- Database: MySQL.
 
 # v0.1 (last changes: 13/05)
 
