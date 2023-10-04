@@ -1,4 +1,4 @@
-# Dom Café
+# DOM CAFÉ
 Java academic coffe store management program
 
 # Visão Geral:
