@@ -1,6 +1,23 @@
 # ACC-2023
 Java academic coffe store management program
 
+# Visão Geral:
+
+O projeto "Dom Café" foi desenvolvido para automatizar e otimizar a gestão de uma cafeteria moderna. Através de uma interface gráfica intuitiva e amigável, oferece uma solução completa para o gerenciamento de produtos, fornecedores, finanças e serviços, possibilitando assim uma melhor tomada de decisões e maior controle operacional para os gestores.
+
+#Funcionalidades Principais:
+
+- Gestão de Estoque: Rastreamento em tempo real de todos os produtos disponíveis, com recursos para adicionar, editar e remover itens.
+- Controle Financeiro: Visão clara da saúde financeira da empresa, permitindo a inserção de receitas e despesas, bem como a visualização de balanços.
+- Cadastro de Fornecedores: Mantenha todas as informações de seus fornecedores em um só lugar, facilitando o processo de compras e renovação de estoque.
+- Serviços e Atendimentos: Gerencie todos os serviços oferecidos, desde a venda de um simples café até combos e promoções especiais.
+
+# Tecnologias Utilizadas:
+
+- Linguagem: Java - por sua robustez e portabilidade, permitindo que o sistema seja utilizado em diferentes plataformas.
+- Banco de Dados: MySQL - para armazenamento seguro e eficiente de todas as informações.
+- Interface Gráfica: Swing - proporcionando uma experiência de usuário interativa e fácil de usar.
+
 - v0.1 (last changes: 13/05)
 
 Login Screen (still in development)
