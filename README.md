@@ -5,7 +5,7 @@ Java academic coffe store management program
 
 O projeto "Dom Café" foi desenvolvido para automatizar e otimizar a gestão de uma cafeteria moderna. Através de uma interface gráfica intuitiva e amigável, oferece uma solução completa para o gerenciamento de produtos, fornecedores, finanças e serviços, possibilitando assim uma melhor tomada de decisões e maior controle operacional para os gestores.
 
-#Funcionalidades Principais:
+# Funcionalidades Principais:
 
 - Gestão de Estoque: Rastreamento em tempo real de todos os produtos disponíveis, com recursos para adicionar, editar e remover itens.
 - Controle Financeiro: Visão clara da saúde financeira da empresa, permitindo a inserção de receitas e despesas, bem como a visualização de balanços.
