@@ -150,7 +150,7 @@ Services
 Finances 
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/c856431f-971b-4769-b88f-8afc22dd5350)
 - remove button added
-- last month's financial graphic created
+- lastest months's financial graphic created
 
 Users
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/5fe24dac-9f23-4cf9-88b7-e6e2863816f4)
