@@ -90,7 +90,7 @@ Finances
 - annual's total balance added
 - annual''s incomes and outcomes
 
-# v1.0 (24/06)
+# v1.0 (24/09)
 - interface redesigned
 - frame border removed
 - icons added
