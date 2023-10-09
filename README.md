@@ -130,31 +130,89 @@ Finances
 - tables can be ordered by column now
 - search panel added
 - background images changed
+- shortcuts added
 
 Home
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/130f45a1-b495-49d5-8c41-af29d97ce759)
 - last changes panel added
+- exit button shortcut (ALT+Q)
+- add button shortcut (ALT+D)
+- remove button shortcut (ALT+R)
+- home button shortcut (ALT+Z)
+- stock button shortcut (ALT+X)
+- suppliers button shortcut (ALT+C)
+- services button shortcut (ALT+N)
+- finances button shortcut (ALT+V)
+- users button shortcut (ALT+M)
+- register button shortcut (ALT+B)
 
 Stock
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/37feef57-4ce0-4f0e-9a5c-19d5650ce347)
 - products are registered on finances automatically
+- exit button shortcut (ALT+Q)
+- add button shortcut (ALT+D)
+- remove button shortcut (ALT+R)
+- home button shortcut (ALT+Z)
+- stock button shortcut (ALT+X)
+- suppliers button shortcut (ALT+C)
+- services button shortcut (ALT+N)
+- finances button shortcut (ALT+V)
+- users button shortcut (ALT+M)
 
 Suppliers
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/262d5892-0268-4528-b315-34b03b421298)
 - email field added
+- exit button shortcut (ALT+Q)
+- add button shortcut (ALT+D)
+- remove button shortcut (ALT+R)
+- home button shortcut (ALT+Z)
+- stock button shortcut (ALT+X)
+- suppliers button shortcut (ALT+C)
+- services button shortcut (ALT+N)
+- finances button shortcut (ALT+V)
+- users button shortcut (ALT+M)
 
 Services
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/2b70f970-37d9-4e40-b125-54b7e35e5fb7)
 - services are registered on finances automatically
+- exit button shortcut (ALT+Q)
+- add button shortcut (ALT+D)
+- remove button shortcut (ALT+R)
+- home button shortcut (ALT+Z)
+- stock button shortcut (ALT+X)
+- suppliers button shortcut (ALT+C)
+- services button shortcut (ALT+N)
+- finances button shortcut (ALT+V)
+- users button shortcut (ALT+M)
 
 Finances 
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/c856431f-971b-4769-b88f-8afc22dd5350)
 - remove button added
 - lastest months's financial graphic created
+- exit button shortcut (ALT+Q)
+- add button shortcut (ALT+D)
+- remove button shortcut (ALT+R)
+- home button shortcut (ALT+Z)
+- stock button shortcut (ALT+X)
+- suppliers button shortcut (ALT+C)
+- services button shortcut (ALT+N)
+- finances button shortcut (ALT+V)
+- users button shortcut (ALT+M)
+
+Financial Graphic
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/54a02042-f71d-4f83-862e-1d6755093ea9)
+- made with jfreechart
 
 Users
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/5fe24dac-9f23-4cf9-88b7-e6e2863816f4)
-
+- exit button shortcut (ALT+Q)
+- remove button shortcut (ALT+R)
+- home button shortcut (ALT+Z)
+- stock button shortcut (ALT+X)
+- suppliers button shortcut (ALT+C)
+- services button shortcut (ALT+N)
+- finances button shortcut (ALT+V)
+- users button shortcut (ALT+M)
 
 
 
