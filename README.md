@@ -14,8 +14,12 @@ The "Dom Café" project was developed to automate and optimize the management of
 
 # Technologies Used:
 
+# System:
 - Programming Language: Java.
 - Database: MySQL.
+
+# Landing Page:
+- HTML,CSS,JavaScript
 
 # v0.1 (last changes: 13/05)
 
