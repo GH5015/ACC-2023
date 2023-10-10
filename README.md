@@ -203,7 +203,7 @@ Finances
 - finances button shortcut (ALT+V)
 - users button shortcut (ALT+M)
 
-Financial Graphic
+- Financial Graphic
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/54a02042-f71d-4f83-862e-1d6755093ea9)
 - made with jfreechart
 
@@ -217,6 +217,28 @@ Users
 - services button shortcut (ALT+N)
 - finances button shortcut (ALT+V)
 - users button shortcut (ALT+M)
+
+Landing Page
+- Home
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/accf33cc-b4eb-42ee-b4b1-be799210da9f)
+
+- About
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/880a69f7-ee77-41ec-942c-ff5a9372b61d)
+
+- Products
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/4fb2696c-39ad-444c-81c7-1d0e4e0d27e0)
+
+- Contact
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/64431e43-4a39-4e4c-8983-903f064f99a6)
+
+- Footer
+![image](https://github.com/GH5015/ACC-2023/assets/94612707/d7d514f4-1a95-4d5f-ab32-154e783ae795)
+
+
+
+
+
+
 
 
 
