@@ -103,6 +103,7 @@ Finances
 Login Screen
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/1192419f-6d54-4daf-b0f6-fd639a8709c0)
 - hover' button added
+- md5 cryptography added
 
 Register Screen
 ![image](https://github.com/GH5015/ACC-2023/assets/94612707/6cc97dc4-528c-4986-89d5-c002f5b3dfcb)
